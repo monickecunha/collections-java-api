@@ -56,7 +56,4 @@ public class Dicionario {
         dicionario.exibirPalavras();
     }
 
-
-
-
 }
